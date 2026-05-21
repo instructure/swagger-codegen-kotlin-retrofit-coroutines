@@ -13,7 +13,7 @@
     "author": "Swagger Codegen Contributors",
     "license": "Unlicense",
     "dependencies": {
-        "@types/bluebird": "*",
+        "@types/bluebird": "3.5.42",
         "@types/request": "*",
         "bluebird": "^3.5.0",
         "request": "^2.81.0",

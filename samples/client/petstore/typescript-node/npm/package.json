@@ -16,7 +16,7 @@
         "@types/bluebird": "*",
         "@types/request": "*",
         "bluebird": "^3.5.0",
-        "request": "^2.81.0",
+        "request": "^2.88.2",
         "rewire": "^3.0.2"
     },
     "devDependencies": {

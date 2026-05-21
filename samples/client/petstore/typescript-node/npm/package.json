@@ -15,7 +15,7 @@
     "dependencies": {
         "@types/bluebird": "*",
         "@types/request": "*",
-        "bluebird": "^3.5.0",
+        "bluebird": "^3.7.2",
         "request": "^2.81.0",
         "rewire": "^3.0.2"
     },
